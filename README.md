@@ -57,29 +57,5 @@ Track real-time volume data for all futures markets on Binance with this simple 
 
 ## 📝 Package.json
 
-```json
-{
-  "name": "binance-realtime-volume-tracker",
-  "version": "1.0.0",
-  "main": "index.js",
-  "scripts": {
-    "dev": "npx tsc -b && node dist/index.js"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "description": "",
-  "dependencies": {
-    "axios": "^1.7.8",
-    "socket.io-client": "^4.8.1",
-    "typescript": "^5.7.2",
-    "ws": "^8.18.0"
-  },
-  "devDependencies": {
-    "@types/ws": "^8.5.13"
-  }
-}
-```
-
 ##🤝 Contributing
 - Contributions are welcome! If you find a bug or have an idea for a new feature, please open an issue or submit a pull request. 1  🛠️   
