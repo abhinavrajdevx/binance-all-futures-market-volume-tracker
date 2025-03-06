@@ -5,9 +5,6 @@
 [![GitHub issues](https://img.shields.io/github/issues/abhinavrajdevx/binance-all-futures-market-volume-tracker)](https://github.com/abhinavrajdevx/binance-all-futures-market-volume-tracker/issues)
 [![License: ISC](https://img.shields.io/badge/License-ISC-blue.svg)](https://opensource.org/licenses/ISC)
 
-<p align="center">
-  <img src="path/to/your/graphics/binance_volume_tracker.png" alt="Binance Futures Volume Tracker Graphic" width="600">
-</p>
 
 Track real-time volume data for all futures markets on Binance with this simple and efficient Node.js application. 🚀
 
